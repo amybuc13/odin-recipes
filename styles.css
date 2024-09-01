@@ -1,0 +1,62 @@
+.header {
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+}
+
+.tasty {
+    color: lightskyblue;
+    font-size: 20px;
+}
+
+.box {
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: lightblue;
+}
+
+.peak {
+    color: white;
+    background-color: lightblue;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.spaghetti {
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 20px;
+    border-style: groove;
+    border-color: lightblue;
+}
+
+.katsu {
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 20px;
+    border-style: groove;
+    border-color: lightblue;
+}
+
+.stirfry {
+    border-radius: 10px;
+    border-width: 10px;
+    margin: 20px;
+    border-style: groove;
+    border-color: lightblue;
+}
+
+.source {
+    color: lightskyblue;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.link {
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: lightblue;
+}
