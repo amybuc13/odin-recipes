@@ -60,3 +60,33 @@
     border-style: groove;
     border-color: lightblue;
 }
+
+.headerone {
+    text-align: center;
+    color: white;
+    background-color: lightblue;
+}
+
+.img {
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: lightblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.info {
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: lightblue;
+    color: rgb(88, 158, 201);
+}
+
+.recipe {
+    color: rgb(88, 158, 201);
+    background-color: white;
+}
