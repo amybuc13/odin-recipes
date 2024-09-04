@@ -5,7 +5,7 @@
 }
 
 .tasty {
-    color: lightskyblue;
+    color: rgb(88, 158, 201);
     font-size: 20px;
 }
 
@@ -49,7 +49,7 @@
 }
 
 .source {
-    color: lightskyblue;
+    color: rgb(88, 158, 201);
     font-size: 15px;
     font-weight: bold;
 }
