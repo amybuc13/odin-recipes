@@ -1,22 +1,22 @@
-.header {
+.indexheader {
     text-align: center;
     background-color: lightblue;
     color: white;
 }
 
-.tasty {
+.tastytext {
     color: rgb(88, 158, 201);
     font-size: 20px;
 }
 
-.box {
+.linkbox {
     border-radius: 10px;
     border-width: 10px;
     border-style: groove;
     border-color: lightblue;
 }
 
-.peak {
+.sneakpeaktext {
     color: white;
     background-color: lightblue;
     font-size: 20px;
@@ -24,7 +24,7 @@
     text-align: center;
 }
 
-.spaghetti {
+.spaghettiimg {
     border-radius: 10px;
     border-width: 10px;
     margin: 20px;
@@ -32,7 +32,7 @@
     border-color: lightblue;
 }
 
-.katsu {
+.katsuimg {
     border-radius: 10px;
     border-width: 10px;
     margin: 20px;
@@ -40,7 +40,7 @@
     border-color: lightblue;
 }
 
-.stirfry {
+.stirfryimg {
     border-radius: 10px;
     border-width: 10px;
     margin: 20px;
@@ -48,26 +48,26 @@
     border-color: lightblue;
 }
 
-.source {
+.sourcetext {
     color: rgb(88, 158, 201);
     font-size: 15px;
     font-weight: bold;
 }
 
-.link {
+.sourcelink {
     border-radius: 5px;
     border-width: 5px;
     border-style: groove;
     border-color: lightblue;
 }
 
-.headerone {
+.spaghettiheader {
     text-align: center;
     color: white;
     background-color: lightblue;
 }
 
-.img {
+.s-img {
     border-radius: 10px;
     border-width: 10px;
     border-style: groove;
@@ -78,7 +78,7 @@
     
 }
 
-.info {
+.spaghettiinfo {
     border-radius: 5px;
     border-width: 5px;
     border-style: groove;
@@ -86,7 +86,66 @@
     color: rgb(88, 158, 201);
 }
 
-.recipe {
+.spaghettirecipe {
+    color: rgb(88, 158, 201);
+    background-color: white;
+}
+
+.katsuheader {
+    text-align: center;
+    color: white;
+    background-color: lightblue;
+}
+
+.k-img {
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: lightblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.katsuinfo {
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: lightblue;
+    color: rgb(88, 158, 201);
+}
+
+.katsurecipe {
+    color: rgb(88, 158, 201);
+    background-color: white;
+}
+
+.stirfryheader {
+    text-align: center;
+    color: white;
+    background-color: lightblue;
+}
+
+/* cs=chicken stirfry*/
+.cs-img {
+    border-radius: 10px;
+    border-width: 10px;
+    border-style: groove;
+    border-color: lightblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stirfryinfo {
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: groove;
+    border-color: lightblue;
+    color: rgb(88, 158, 201);
+}
+
+.stirfryrecipe {
     color: rgb(88, 158, 201);
     background-color: white;
 }
